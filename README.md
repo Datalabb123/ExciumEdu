@@ -1,4 +1,4 @@
-# 🤖 EduMind Chat
+# 🤖 ExciumEdu Chat
 
 EduMind Chat is a Streamlit-powered intelligent educational assistant that uses **Retrieval-Augmented Generation (RAG)** to answer user questions based on uploaded `.docx` documents. It leverages **LangChain**, **ChromaDB**, **HuggingFace Embeddings**, and **Groq LLMs** for fast, accurate, and contextual responses.
 
