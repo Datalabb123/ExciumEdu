@@ -22,4 +22,4 @@ EduMind Chat is a Streamlit-powered intelligent educational assistant that uses 
 - **LLM**: [Groq (Gemma2-9b-it)](https://groq.com/)
 - **Embeddings**: [HuggingFace Sentence Transformers](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)
 - **RAG Pipeline**: [LangChain](https://www.langchain.com/) + [Chroma](https://www.trychroma.com/)
-- **Document Loader**: Unstructured Word Document Loader
+- **Document Loader**: Unstructured Word Document Loader.
